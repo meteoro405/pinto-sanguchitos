@@ -1,7 +1,7 @@
 {
   "name": "Mi Restaurante",
-  "short_name": "Restaurante",
-  "description": "Pedidos de delivery online",
+  "short_name": "Pintó",
+  "description": "Sandwichitos de miga",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#1A1208",
