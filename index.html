@@ -1151,7 +1151,7 @@ let deferredPrompt = null;
 
 // ── Utilidades ───────────────────────────────────────────
 const $ = id => document.getElementById(id);
-const fmt = n => '$' + Number(n).toLocaleString('es-AR');
+const fmt = n => '€' + Number(n).toLocaleString('es-ES');
 
 function showToast(msg, dur = 2500) {
   const t = $('toast');
